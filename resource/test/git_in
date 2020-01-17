@@ -1,0 +1,7 @@
+#!/usr/bin/env bash
+
+echo "running test script"
+echo -e "inputs=$@"
+echo
+echo git_in payload
+cat <&0
