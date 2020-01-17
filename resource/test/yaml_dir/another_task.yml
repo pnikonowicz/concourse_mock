@@ -1,0 +1,16 @@
+---
+platform: linux
+
+image_resource:
+  type: registry-image
+  source:
+    repository: cfgemfire/gemfire-2.0-ci
+
+inputs:
+  - name: cloudcache-ci
+
+outputs:
+  - name: artifacts
+
+run:
+  path: another_run.sh

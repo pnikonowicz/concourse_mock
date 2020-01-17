@@ -1,2 +1,2 @@
-{"source":{"branch":"master","paths":["Dockerfile"],"private_key":"-----BEGIN RSA PRIVATE KEY-----\n-----END RSA PRIVATE KEY-----\n","uri":"git@github.com:pivotal-cf/cloudcache-ci.git"},"params":{"mock":{"files":["cloudcache-ci/tasks/bbl-bootstrap-gcp/task.yml"]}},"version":{"ref":"041b643696312286cb8f302f4c2b5224816b303e"}}
+{"source":{"branch":"master","paths":["Dockerfile"],"private_key":"-----BEGIN RSA PRIVATE KEY-----\n-----END RSA PRIVATE KEY-----\n","uri":"git@github.com:pivotal-cf/cloudcache-ci.git"},"params":{"mock":{"files":["test/yaml_dir/another_task.yml","test/yaml_dir/standard_task.yml"]}},"version":{"ref":"041b643696312286cb8f302f4c2b5224816b303e"}}
 
